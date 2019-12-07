@@ -1,6 +1,6 @@
 # Project1
 This website will be published on: https://pranjli-github.github.io/Project1/
-Link to the data:
+Link to the data and map:
 https://docs.google.com/spreadsheets/d/13yE2w0e-5gaWlVTfVP5NEvOZtOu2Uy4Dvu6jnNsIZbg/edit#gid=342486581
 
 Link to chart:
